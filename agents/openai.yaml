@@ -1,0 +1,5 @@
+interface:
+  display_name: "PPT 策划与制作"
+  short_description: "从灵活材料到叙事大纲、样页确认与整套制作，交付可编辑 PPTX 和逐页讲稿"
+policy:
+  allow_implicit_invocation: true
